@@ -1,5 +1,5 @@
 .contato {
-    background-color: rgb(0, 0, 0);
+    background-color: #4dbcfc(0, 0, 0);
     padding: 1em;
     text-align: center;
     padding-bottom: 3em;
@@ -7,7 +7,7 @@
 }
 
 .contato-titulo {
-    color: #4dbcfc;
+    color: #ffffff;
     font-weight: 700;
     font-size: 28px;
     padding-top: 1em;
