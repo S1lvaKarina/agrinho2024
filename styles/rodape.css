@@ -8,6 +8,5 @@ hr {
     color: black;
     font-weight: 400;
     font-size: 14px;
-    text-align: right;
-    position: relative;
+    justify-content: center;
 }
